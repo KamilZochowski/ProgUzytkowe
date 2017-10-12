@@ -1,3 +1,3 @@
 # Kamil Żochowski
 ## Opis projektu
-** Programy uzytkowe na UWM **
+**Programy uzytkowe na UWM**
